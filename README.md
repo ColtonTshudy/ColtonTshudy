@@ -1,2 +1,1 @@
-VT 2024
-Electrical engineer
+Electrical engineer and software tinkerer
